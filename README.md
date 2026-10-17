@@ -28,4 +28,3 @@ Enregistre avec **Ctrl + O**, puis **Entrée**, et quitte avec **Ctrl + X**.
 cat README.md
 git add README.md
 git commit -m "docs: ajouter les instructions d'execution"
-<--------------------- | --------- | ---------- | --------- | --------- | Test temporaire pour git revert -->
