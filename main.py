@@ -1,5 +1,6 @@
 def main():
-    print("Bienvenue dans mon projet DevOps ! we are looking for subsercribers")
+    print("Bienvenue dans mon projet DevOps !")
+    print("Fonctionnalite de connexion : version developpee")
 
 
 if __name__ == "__main__":
