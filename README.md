@@ -19,12 +19,4 @@ Pour lancer le programme :
 
 ```bash
 python3 main.py
-
-Enregistre avec **Ctrl + O**, puis **Entrée**, et quitte avec **Ctrl + X**.
-
-### 2. Vérifie et crée le commit
-
-```bash
-cat README.md
-git add README.md
-git commit -m "docs: ajouter les instructions d'execution"
+```
